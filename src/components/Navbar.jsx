@@ -30,7 +30,6 @@ export default function Navbar() {
         <li><a href="/blogs">Blog</a></li>
       </ul>
       <div className="nav-right">
-        <a href="/company-login" className="btn btn-ghost">Company Login</a>
         <a href={storeLink} className="btn btn-primary" target="_blank" rel="noreferrer">
           Earn Now
           <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
