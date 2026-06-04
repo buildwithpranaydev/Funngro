@@ -20,7 +20,7 @@ export default function Navbar() {
   return (
     <nav id="nav" ref={navRef} role="navigation" aria-label="Main Navigation">
       <a href="/" className="nav-logo" aria-label="Funngro Home">
-        <img src="/images/funngro-icon.png" alt="" aria-hidden="true" style={{ height: '32px', width: '32px', objectFit: 'contain', borderRadius: '50%' }} />
+        <img src="/images/funngro-icon.png" alt="Funngro Icon" aria-hidden="true" style={{ height: '32px', width: '32px', objectFit: 'contain', borderRadius: '50%' }} />
         Funngro
       </a>
       <ul className="nav-links">

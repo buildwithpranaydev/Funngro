@@ -4,7 +4,7 @@ export default function Footer() {
       <div className="footer-grid">
         <div className="footer-brand">
           <div className="footer-brand-name">
-            <img src="/images/funngro-icon.png" alt="" aria-hidden="true" style={{ height: '28px', width: '28px', objectFit: 'contain', borderRadius: '50%' }} />
+            <img src="/images/funngro-icon.png" alt="Funngro Icon" aria-hidden="true" style={{ height: '28px', width: '28px', objectFit: 'contain', borderRadius: '50%' }} />
             Funngro
           </div>
           <p>Enable Smart Teenagers and Smart Companies to realize their full potentials. It&apos;s fun to grow.</p>
